@@ -1,0 +1,7 @@
+{
+    "name": "mini_compiler_demo",
+    "version": "1.0.0",
+    "author": "Vikash Viraj <vikashviraj3@gmail.com> (vikashviraj.dev)",
+    "license": "CC-BY-4.0",
+    "main": "./compiler.js"
+  }
